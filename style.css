@@ -45,6 +45,10 @@ footer {
     justify-content: center;
     align-items: center;
 }
+.fonte-referenciada {
+    font-style: italic;
+    font-weight: 600;
+}
 .title-footer {
     font-size: 15px;
     color: white;
