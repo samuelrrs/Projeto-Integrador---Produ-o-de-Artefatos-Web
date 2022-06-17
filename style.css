@@ -96,6 +96,7 @@ iframe {
     }
     .noticia {
         width: 90%;
+        margin-top: 1rem;
     }
     .section-video-subtitle {
         display: none;
